@@ -1,7 +1,7 @@
 # portif-lio-responsivo
 Olá, bem vindo ao meu portifólio desenvolvido com os cursos de HTML e CSS da Alura, este projeto é um site simples que se adapta ao tamanho da tela utilizando as práticas de design responsivo.
 
-!image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
 
 Ele possui:
 
